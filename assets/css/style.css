@@ -25,7 +25,7 @@ body::before {
   left: 0;
   right: 0;
   top: 0;
-  height: 75vh;
+  height: 100vh;
   z-index: -1;
 }
 
@@ -60,7 +60,7 @@ h6 {
 #header {
   transition: ease-in-out 0.3s;
   position: relative;
-  height: 100vh;
+  height: 50vh;
   display: flex;
   align-items: center;
   z-index: 997;
